@@ -6,7 +6,7 @@ The corpus of Western music offers the chance to analyze trends in its evolution
 
 ## The manuscript
 
-This repository is meant to supplement the manuscript "The evolution of Western tonality: a corpus analysis of 24,000 songs from 190 composers over six centuries", which has been posted as a pre-print on SocArXiv and can be found [here](doi.org/10.17605/OSF.IO/BTSHK) at the following doi: [10.17605/OSF.IO/BTSHK](doi.org/10.17605/OSF.IO/BTSHK)
+This repository is meant to supplement the manuscript "The evolution of Western tonality: a corpus analysis of 24,000 songs from 190 composers over six centuries", which has been posted as a pre-print on SocArXiv and can be found [here](https://osf.io/preprints/socarxiv/btshk/).
 
 ## This repository
 
